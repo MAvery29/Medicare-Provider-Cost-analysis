@@ -1,0 +1,303 @@
+Provider_NPI,Provider_LastName,Provider_Speciality,State,Total_Payment,State_Rank
+1922088392,Stinson,"Diagnostic Radiology",AA,2982.51,1
+1487629929,Riesz,"Diagnostic Radiology",AA,1760.71,2
+1124504006,Nelson,Optometry,AA,630.96,3
+1750510327,Rial,Hospitalist,AA,517.59,4
+1659864221,Jaschen,"Emergency Medicine",AA,514.23,5
+1558536169,Crosson,Ophthalmology,AE,2912.00,1
+1003015652,Dehqanzada,"General Surgery",AE,1328.58,2
+1093867137,Saunders,"Internal Medicine",AE,1260.80,3
+1477900066,Burdge,"Family Practice",AE,1145.69,4
+1790340701,Alexander,Anesthesiology,AE,846.25,5
+1477891364,"Alaska Heart Institute","Ambulatory Surgical Center",AK,71943.68,1
+1184195877,"Alpine Surgicenter, Llc","Ambulatory Surgical Center",AK,70199.90,2
+1649534843,"Surgery Center Of Wasilla, Llc","Ambulatory Surgical Center",AK,68837.49,3
+1558570648,"Alaska Native Tribal Health Consortium","Ambulatory Surgical Center",AK,43686.49,4
+1255652285,"Surgery Center Of Fairbanks Llc","Ambulatory Surgical Center",AK,35083.23,5
+1285690073,"Birmingham Outpatient Surgery Center Ltd","Ambulatory Surgical Center",AL,76686.23,1
+1669031886,"Surgical Clinic Solutions, Llc","Ambulatory Surgical Center",AL,72959.58,2
+1346349164,"Southern Alabama Surgery Center Llc","Ambulatory Surgical Center",AL,63726.98,3
+1841342789,"Surgery Center Jv","Ambulatory Surgical Center",AL,60060.66,4
+1760447866,"Mobile-Sc, Ltd","Ambulatory Surgical Center",AL,39263.10,5
+1851612170,Kim,"Diagnostic Radiology",AP,3545.42,1
+1891774410,Reynolds,"Diagnostic Radiology",AP,2024.34,2
+1033347133,Rust,"Diagnostic Radiology",AP,1376.43,3
+1699974675,Ash,"Emergency Medicine",AP,1244.64,4
+1457502114,Santiago,"Internal Medicine",AP,1065.01,5
+1902472715,"Central Arkansas Radiation Therapy Institute Inc","Ambulatory Surgical Center",AR,80576.26,1
+1437110293,"St. Vincent-Arkansas Orthopaedic Surgery Center Llc","Ambulatory Surgical Center",AR,64314.36,2
+1679001028,"Centerview Surgery Center, Llc","Ambulatory Surgical Center",AR,52420.93,3
+1194209437,"Precision Surgical Center Of Northwest Arkansas, Llc","Ambulatory Surgical Center",AR,51644.10,4
+1598758153,"Outpatient Surgery Center Of Jonesboro Llc","Ambulatory Surgical Center",AR,48971.02,5
+1659578458,Shelton,"Nurse Practitioner",AS,65.89,1
+1083382154,"Tri-City Surgical Centers, Llc","Ambulatory Surgical Center",AZ,93110.72,1
+1689222317,"Flagstaff Bone & Joint Surgical Center, Llc","Ambulatory Surgical Center",AZ,82874.13,2
+1154911592,"Bcc West Valley Llc","Ambulatory Surgical Center",AZ,75299.94,3
+1306843222,"St. Joseph's Outpatient Surgery Center, Llc","Ambulatory Surgical Center",AZ,74947.00,4
+1750920591,"Hayden Surgical Center Llc","Ambulatory Surgical Center",AZ,70687.76,5
+1457317398,"Santa Rosa Surgery Center L P","Ambulatory Surgical Center",CA,135808.93,1
+1164484572,"Fort Sutter Surgery Center A California Limited Partnership","Ambulatory Surgical Center",CA,121465.59,2
+1851369284,"Fremont Ambulatory Surgery Center, Lp","Ambulatory Surgical Center",CA,113604.76,3
+1497120463,"The Cardiovascular Surgical Center, Inc.","Ambulatory Surgical Center",CA,109110.52,4
+1598349839,"Naadi Manteca Asc","Ambulatory Surgical Center",CA,103611.63,5
+1174590434,"Harmony Surgery Center, Llc","Ambulatory Surgical Center",CO,109362.44,1
+1174010011,"Dtc Surgery Center, Llc","Ambulatory Surgical Center",CO,58237.91,2
+1043819873,"Lone Tree Surgery Center, Llc","Ambulatory Surgical Center",CO,53330.82,3
+1376155440,"Colorado Urologic Surgery Center Llc","Ambulatory Surgical Center",CO,48802.59,4
+1770180986,"Audubon Ambulatory Surgery Center Llc","Ambulatory Surgical Center",CO,46753.98,5
+1720227945,"Western Connecticut Orthopedic Surgical Center Llc","Ambulatory Surgical Center",CT,49598.37,1
+1588681373,"Constitution Surgery Center East Llc","Ambulatory Surgical Center",CT,48468.95,2
+1457370447,"Orthopedic Associates Surgery Center Llc","Ambulatory Surgical Center",CT,42079.75,3
+1902459084,"Lighthouse Surgery Center, Llc","Ambulatory Surgical Center",CT,39480.39,4
+1174708390,"Orthopaedic Specialty Surgery Center Llc","Ambulatory Surgical Center",CT,39355.46,5
+1881012821,Sood,"Interventional Radiology",DC,21082.77,1
+1689672743,Chang,"Interventional Radiology",DC,19548.43,2
+1003835034,Nedd,"Thoracic Surgery",DC,15798.24,3
+1376618454,Aziz,"Cardiac Surgery",DC,15240.09,4
+1912090432,"Medstar Surgery Center At Lafayette Centre, Llc","Ambulatory Surgical Center",DC,12054.46,5
+1851338677,"Delaware Surgery Center, Llc","Ambulatory Surgical Center",DE,80238.29,1
+1437737442,"Center For Spine Surgery Llc","Ambulatory Surgical Center",DE,72878.10,2
+1508911728,"Minimally Invasive Surgical And Neuroscience Llc","Ambulatory Surgical Center",DE,39281.49,3
+1508846411,"First State Surgery Center, Llc","Ambulatory Surgical Center",DE,37551.43,4
+1275642480,"Egnm Llc","Ambulatory Surgical Center",DE,35909.96,5
+1487198495,"Surgery Center Of Naples, Llc","Ambulatory Surgical Center",FL,148665.78,1
+1124125604,"Murdock Ambulatory Surgery Center Llc","Ambulatory Surgical Center",FL,115785.43,2
+1326045014,"Grove Place Surgery Center ,llc","Ambulatory Surgical Center",FL,98016.28,3
+1396700159,"Doctors Same Day Surgery Center, Ltd","Ambulatory Surgical Center",FL,90030.71,4
+1073571766,"Boca Raton Outpatient Surgery & Laser Center Ltd","Ambulatory Surgical Center",FL,87930.16,5
+1467985176,Rumano,Psychiatry,FM,432.24,1
+1154422541,"Brunswick Pain Treatment Center, Llc","Ambulatory Surgical Center",GA,67691.09,1
+1215993100,"Gainesville Surg Ctr Lp","Ambulatory Surgical Center",GA,57241.71,2
+1386652667,"Macon Outpatient Surgery, Llc","Ambulatory Surgical Center",GA,53294.90,3
+1225458755,"Aos Surgery Center Llc","Ambulatory Surgical Center",GA,47352.15,4
+1477047199,"Pain & Spine Physicians Surgery Center Llc","Ambulatory Surgical Center",GA,46172.92,5
+1720175847,Shay,"Interventional Radiology",GU,26308.35,1
+1568462513,Shay,"Interventional Radiology",GU,23234.40,2
+1255338000,"Guam Surgicenter, Llc","Ambulatory Surgical Center",GU,14768.01,3
+1801055223,Khandelwal,"Diagnostic Radiology",GU,5808.66,4
+1265646806,Berg,"Diagnostic Radiology",GU,4735.52,5
+1093830325,"Honolulu Spine Center, Llc","Ambulatory Surgical Center",HI,39918.08,1
+1639484603,El-Sergany,"Vascular Surgery",HI,36587.33,2
+1689013534,"Specialty Surgical Suites, Llc","Ambulatory Surgical Center",HI,36346.78,3
+1043502792,"Pacific Asc Llc","Ambulatory Surgical Center",HI,27118.31,4
+1114985611,"Aloha Surgical Center Llc","Ambulatory Surgical Center",HI,23661.50,5
+1124022595,"The Outpatient Surgery Center Of Cedar Rapids, Llc","Ambulatory Surgical Center",IA,56431.55,1
+1255500781,"Iowa City Ambulatory Surgical Center, Llc","Ambulatory Surgical Center",IA,52347.32,2
+1467511899,"Mercy Terrace Hill Surgery Center, Llc","Ambulatory Surgical Center",IA,50272.23,3
+1275530271,"Tri-State Surgery Center, L.L.C.","Ambulatory Surgical Center",IA,48944.96,4
+1255397964,"Surgery Centers Of Des Moines Ltd","Ambulatory Surgical Center",IA,45875.96,5
+1922093293,"Lewis & Clark Orthopaedic Institute Llc","Ambulatory Surgical Center",ID,41746.38,1
+1912600826,"Surgical Center Of Tvh","Ambulatory Surgical Center",ID,30801.42,2
+1104896422,"North Idaho Pain Center Llc","Ambulatory Surgical Center",ID,28081.71,3
+1619998648,"Pain Care Center Boise, Llc","Ambulatory Surgical Center",ID,28067.91,4
+1609825298,"Surgery Center Of Idaho Llc","Ambulatory Surgical Center",ID,27441.98,5
+1922664622,"Premier Cardiac Surgery Center, Pllc","Ambulatory Surgical Center",IL,134025.78,1
+1619469244,"Rush Oak Brook Surgery Center, Llc","Ambulatory Surgical Center",IL,84939.47,2
+1730151168,"Hawthorn Place Outpatient Surgery Center Lp","Ambulatory Surgical Center",IL,78323.10,3
+1710037452,"Illinois Sports Medicine & Orthopedic Surgery Center, Llc","Ambulatory Surgical Center",IL,75095.59,4
+1992752224,"Springfield Clinic Llp","Ambulatory Surgical Center",IL,71776.25,5
+1447297684,"Naab Road Surgery Center, Llc","Ambulatory Surgical Center",IN,82659.57,1
+1184601098,"Franciscan Surgery Center, Llc","Ambulatory Surgical Center",IN,66718.81,2
+1548629181,"Chesterton Surgery Center Llc","Ambulatory Surgical Center",IN,55059.33,3
+1598270076,"Beltway Surgery Centers, Llc","Ambulatory Surgical Center",IN,52235.78,4
+1659519684,"South Campus Surgery Center","Ambulatory Surgical Center",IN,48451.14,5
+1295119584,"Wichita Asc Lp","Ambulatory Surgical Center",KS,97401.05,1
+1770581829,"Physicians' Surgery Center, Llc","Ambulatory Surgical Center",KS,64549.67,2
+1467920389,"Ku Medwest Ambulatory Surgery Center, Llc","Ambulatory Surgical Center",KS,59452.33,3
+1659473924,"Mid-America Surgery Institute Llc","Ambulatory Surgical Center",KS,56269.66,4
+1588237523,"Cardio-Kidney Vascular Care Llc","Ambulatory Surgical Center",KS,55509.49,5
+1689216152,"Baptist Health Surgery Center Llc","Ambulatory Surgical Center",KY,81780.56,1
+1881789964,"New Lexington Clinic, Psc","Ambulatory Surgical Center",KY,64926.77,2
+1750343083,"Lexington Surgery Center Ltd","Ambulatory Surgical Center",KY,44609.66,3
+1730834730,"Heritage Development Partners, Llc","Ambulatory Surgical Center",KY,43311.58,4
+1912097700,"New Lexington Clinic, Psc","Ambulatory Surgical Center",KY,40719.84,5
+1376055897,"Northern Louisiana Cardiac Services Llc","Ambulatory Surgical Center",LA,73283.99,1
+1427787142,"Capital Surgery Center Llc","Ambulatory Surgical Center",LA,40093.64,2
+1104181247,"Advanced Surgery Center Of Northern Louisiana Llc","Ambulatory Surgical Center",LA,38628.41,3
+1164095857,"Cardiovascular Specialty Care Center Asc Llc","Ambulatory Surgical Center",LA,37990.56,4
+1255911970,"Pinnacle Surgery Center","Ambulatory Surgical Center",LA,35240.58,5
+1043526353,"New England Surgery Center Llc","Ambulatory Surgical Center",MA,73592.64,1
+1285746263,"Orthopedics Surgical Center Of The North Shore Llc","Ambulatory Surgical Center",MA,54950.58,2
+1447995311,"New England Baptist Surgery Center Llc","Ambulatory Surgical Center",MA,43310.31,3
+1588308035,"Baystate New England Orthopedic Surgeons Alliance, Llc","Ambulatory Surgical Center",MA,42062.34,4
+1629603162,"Natick Surgery Center, Llc","Ambulatory Surgical Center",MA,34964.78,5
+1346862869,"Nspc Surgery Center Of Maryland Llc","Ambulatory Surgical Center",MD,83913.25,1
+1932718822,"Charles Regional Surgical Center Llc","Ambulatory Surgical Center",MD,78724.94,2
+1841347143,"Ruxton Surgicenter Llc","Ambulatory Surgical Center",MD,75585.44,3
+1902959190,"Riva Road Surgical Center, Llc","Ambulatory Surgical Center",MD,67189.75,4
+1194913574,"Summit Ambulatory Surgical Center, Llc","Ambulatory Surgical Center",MD,62839.73,5
+1295855948,"Maine Eye Center, Pa","Ambulatory Surgical Center",ME,16905.13,1
+1518382936,"Spectrum Healthcare Partners, P.A","Ambulatory Surgical Center",ME,16321.59,2
+1407867583,"Acadia Medical Arts Ambulatory Surgical Suite","Ambulatory Surgical Center",ME,16035.69,3
+1376599381,"Eyecare Medical Group","Ambulatory Surgical Center",ME,13773.08,4
+1710082672,Jones,"Radiation Oncology",ME,9688.76,5
+1649219536,"Usc, Llc","Ambulatory Surgical Center",MI,72355.68,1
+1386220895,"Bloomfield Hills Surgery Center","Ambulatory Surgical Center",MI,71886.48,2
+1467544684,"Towne Centre Surgery Center, Llc","Ambulatory Surgical Center",MI,52501.92,3
+1518957729,"Northwest Michigan Surgery Center Llc","Ambulatory Surgical Center",MI,51214.74,4
+1659574283,"Providence Ventures, Llc","Ambulatory Surgical Center",MI,42442.23,5
+1164852455,"Nura Surgical Center Llc","Ambulatory Surgical Center",MN,66118.75,1
+1891730644,"Lakewalk Surgery Center, Inc.","Ambulatory Surgical Center",MN,52296.40,2
+1124084843,"St Cloud Outpatient Surgery Ltd","Ambulatory Surgical Center",MN,52284.88,3
+1790145480,"Twin Cities Surgery Center, Pa","Ambulatory Surgical Center",MN,50185.25,4
+1336665306,"Eagan Orthopedic Surgery Center Llc","Ambulatory Surgical Center",MN,46767.10,5
+1093230450,"Center For Urologic Surgery Llc","Ambulatory Surgical Center",MO,95777.75,1
+1831360247,"Surgical Center At Columbia Orthopaedic Group Llc","Ambulatory Surgical Center",MO,87849.13,2
+1164486809,"Saint Luke's Surgicenter - Lee's Summit","Ambulatory Surgical Center",MO,58094.77,3
+1447613344,"Premier Surgical Center Llc","Ambulatory Surgical Center",MO,57611.22,4
+1922144484,"Interventional Pain Center Of Chesterfield Llc","Ambulatory Surgical Center",MO,55550.81,5
+1487948543,Allen,Ophthalmology,MP,2712.30,1
+1497994008,Grant,"Family Practice",MP,1300.18,2
+1699800235,Yarofalir,"General Surgery",MP,1206.84,3
+1326494766,"Northern Mariana Islands Government","Ambulance Service Provider",MP,595.81,4
+1699709295,Ada,"Internal Medicine",MP,529.45,5
+1073946216,"Madison Physician Surgery Center, Llc","Ambulatory Surgical Center",MS,105469.09,1
+1912906157,"Southern Surgery Center, Llc","Ambulatory Surgical Center",MS,90392.40,2
+1447271713,"Columbus Orthopedic Outpatient","Ambulatory Surgical Center",MS,82919.64,3
+1912480070,"Sog Surgery Center Llc","Ambulatory Surgical Center",MS,78056.67,4
+1093736795,"Hattiesburg Clinic Pa","Ambulatory Surgical Center",MS,54300.38,5
+1639126303,"Missoula Bone & Joint Surgery Center, Llc","Ambulatory Surgical Center",MT,61674.75,1
+1841275211,"Helena Surgicenter, Llc","Ambulatory Surgical Center",MT,41526.90,2
+1285251132,"West Bozeman Surgery Center, Llc","Ambulatory Surgical Center",MT,37711.85,3
+1497759955,"Yellowstone Surgery Center, Llc","Ambulatory Surgical Center",MT,35383.59,4
+1639158645,"Big Sky Surgery Center, Llc","Ambulatory Surgical Center",MT,31956.05,5
+1497942460,"Orthopaedic Surgery Center Of Asheville, Lp","Ambulatory Surgical Center",NC,104726.42,1
+1366908469,"Brunswick Surgery Center Llc","Ambulatory Surgical Center",NC,91651.24,2
+1558983833,"Triad Center For Surgery","Ambulatory Surgical Center",NC,89093.26,3
+1972874907,"Capital City Surgery Center, Llc","Ambulatory Surgical Center",NC,81224.60,4
+1003860917,"Surgery Center Of Pinehurst, Llc","Ambulatory Surgical Center",NC,71889.94,5
+1578918124,"Center For Pain Medicine Surgery Center Llc","Ambulatory Surgical Center",ND,45723.66,1
+1255339628,"Bismarck Surgical Associates, Llc","Ambulatory Surgical Center",ND,45462.25,2
+1326144221,"Fm Endoscopy Center Llc","Ambulatory Surgical Center",ND,42448.04,3
+1164428272,"North Dakota Surgery Center, Llc","Ambulatory Surgical Center",ND,34030.99,4
+1649350844,"Northern Plains Surgery Center Llc","Ambulatory Surgical Center",ND,12278.21,5
+1609343052,"Advanced Medical Imaging Surgery Center, Llc","Ambulatory Surgical Center",NE,87851.14,1
+1578208435,"Npi Surgery Center Llc","Ambulatory Surgical Center",NE,51057.05,2
+1558337790,"Kearney Ambulatory Surgical Center, Llc","Ambulatory Surgical Center",NE,49698.68,3
+1215904131,"Nebraska Surgery Center Llc","Ambulatory Surgical Center",NE,47253.51,4
+1720334097,"Pacific Surgery Center, Llc","Ambulatory Surgical Center",NE,44282.28,5
+1477140796,"Portsmouth Surgicenter, Llc","Ambulatory Surgical Center",NH,53202.14,1
+1205361052,"Minimally Invasive Surgery Center Of N.E., Llc","Ambulatory Surgical Center",NH,49009.98,2
+1730277575,"Bedford Ambulatory Surgical Center, Llc","Ambulatory Surgical Center",NH,41185.35,3
+1316350275,"Orchard Surgical Center, Llc","Ambulatory Surgical Center",NH,38347.82,4
+1568421840,"Capital Orthopedic Surgery Center","Ambulatory Surgical Center",NH,37927.56,5
+1437442985,"Aaa Surgery Center, Llc","Ambulatory Surgical Center",NJ,67612.80,1
+1093750903,"Franklin Surgical Center, Llc","Ambulatory Surgical Center",NJ,65667.16,2
+1780673327,"Lakewood Surgery Center, Llc","Ambulatory Surgical Center",NJ,59778.26,3
+1184686164,"Shore Ambulatory Surgical Center, Llc","Ambulatory Surgical Center",NJ,59422.97,4
+1366449571,"Shore Outpatient Surgicenter Llc","Ambulatory Surgical Center",NJ,51897.49,5
+1831109560,"New Mexico Orthopaedic Surgery Center, Llc","Ambulatory Surgical Center",NM,58217.36,1
+1205878758,"Albuquerque Ambulatory Eye Surgery Center, Llc","Ambulatory Surgical Center",NM,24562.64,2
+1942893896,"The Surgery Center Of Las Cruces, Llc","Ambulatory Surgical Center",NM,23315.46,3
+1104990050,"Four Corners Ambulatory Surgery Center, Llc","Ambulatory Surgical Center",NM,22695.93,4
+1487246229,"Presbyterian Rust Medical Center Asc Llc","Ambulatory Surgical Center",NM,18234.64,5
+1922180439,"Dl-Jt Management Services, Llc","Ambulatory Surgical Center",NV,71410.17,1
+1932390234,"Reno Orthopaedic Surgery Center Llc","Ambulatory Surgical Center",NV,70181.25,2
+1568752202,"Woodward Ave., Llc","Ambulatory Surgical Center",NV,63098.87,3
+1689652638,"Institute Of Orthopaedic Surgery Llc","Ambulatory Surgical Center",NV,61016.51,4
+1225781891,"Surgery Nevada Llc","Ambulatory Surgical Center",NV,58167.24,5
+1639261365,"Specialists One- Day Surgery Llc","Ambulatory Surgical Center",NY,81159.79,1
+1760931349,"Sf Nassau Asc Llc","Ambulatory Surgical Center",NY,71868.60,2
+1043246077,"Dutchess Ambulatory Surgical Center","Ambulatory Surgical Center",NY,66879.04,3
+1629152053,"Island Eye Surgicenter Llc","Ambulatory Surgical Center",NY,55896.84,4
+1740879055,"Ny Endovascular Center Llc","Ambulatory Surgical Center",NY,49947.59,5
+1205845740,"The Urology Center Llc","Ambulatory Surgical Center",OH,75313.73,1
+1285639062,"Ohio Orthopedic Surgery Institute Llc","Ambulatory Surgical Center",OH,67102.51,2
+1386796332,"Toledo Clinic Incorporated","Ambulatory Surgical Center",OH,61919.87,3
+1679577167,"Whitehall Surgery Center, Ltd","Ambulatory Surgical Center",OH,60675.34,4
+1174852461,"Mayfield Spine Surgery Center Llc","Ambulatory Surgical Center",OH,56807.24,5
+1386196764,"Advanced Surgical & Research Solutions Llc","Ambulatory Surgical Center",OK,101234.69,1
+1407964950,"Surgery Center Of Enid Inc","Ambulatory Surgical Center",OK,76762.55,2
+1073570552,"Physicians Surgical Center Llc","Ambulatory Surgical Center",OK,70089.35,3
+1609465269,"Oklahoma Spine Surgery Center","Ambulatory Surgical Center",OK,57451.37,4
+1265907885,"Apex Surgery Center, Llc","Ambulatory Surgical Center",OK,56248.97,5
+1376536482,"Bend Surgery Center Llc","Ambulatory Surgical Center",OR,97884.83,1
+1912641788,"Pacific Northwest Surgery Center Llc","Ambulatory Surgical Center",OR,71327.11,2
+1457826125,"Central Oregon Surgical Institute, Llc","Ambulatory Surgical Center",OR,59745.20,3
+1568187979,"Eiger Branch, Llc","Ambulatory Surgical Center",OR,59088.53,4
+1205080181,"Northwest Neurospine Institute, Llc","Ambulatory Surgical Center",OR,58553.01,5
+1013471754,"Advanced Surgery Center Of Lancaster, Llc","Ambulatory Surgical Center",PA,89660.02,1
+1811534555,"Midlantic Urology Surgery Center, Llc","Ambulatory Surgical Center",PA,63327.04,2
+1790786218,"Fort Washington Surgery Center, Llc","Ambulatory Surgical Center",PA,56355.18,3
+1528797818,"East Norriton Surgical Center, Llc","Ambulatory Surgical Center",PA,55602.52,4
+1790876431,"Main Line Spine Surgery Center, Llc","Ambulatory Surgical Center",PA,51777.55,5
+1396244877,"Caguas Ambulatory Surgical Center, Inc","Ambulatory Surgical Center",PR,7003.06,1
+1609841667,Jimenez,"Nuclear Medicine",PR,5619.88,2
+1912984667,Garcia,"Nuclear Medicine",PR,5434.89,3
+1982647418,Villamil,"Orthopedic Surgery",PR,4011.63,4
+1881889558,"Garcia Gonzalez",Ophthalmology,PR,3647.02,5
+1598419509,"Uoi East Bay Surgery Center Llc","Ambulatory Surgical Center",RI,60189.90,1
+1154034429,"Crossings Surgery Center, Llc","Ambulatory Surgical Center",RI,59470.40,2
+1497220412,"Providence Interventional Associates Ii Llc","Ambulatory Surgical Center",RI,28200.84,3
+1447216981,Danes,"Vascular Surgery",RI,10903.01,4
+1821193277,Rosen,"Vascular Surgery",RI,10784.96,5
+1508840893,"Parkway Surgery Center","Ambulatory Surgical Center",SC,107011.29,1
+1881620466,"Midlands Orthopaedics Surgery Center, Llc","Ambulatory Surgical Center",SC,93600.37,2
+1174588206,"Charleston Surgery Center Limited Partnership","Ambulatory Surgical Center",SC,78669.39,3
+1811076623,"Spartanburg Surgery Center, Llc","Ambulatory Surgical Center",SC,76541.20,4
+1932274743,"Coastal Carolina Centers Of Urology And Surgery Llc","Ambulatory Surgical Center",SC,70647.42,5
+1760465207,"Plastic Surgical Center Of Rapid City, Prof. L.L.C.","Ambulatory Surgical Center",SD,32639.53,1
+1750590998,Laurich,"Vascular Surgery",SD,31380.21,2
+1346220183,"Black Hills Regional Eye Surgery Center, Llc","Ambulatory Surgical Center",SD,28522.86,3
+1134189160,Kelly,"Vascular Surgery",SD,28022.68,4
+1205171295,"Vance Thompson Vision Surgery Center Prof Llc","Ambulatory Surgical Center",SD,27736.97,5
+1255386348,"Surgery Center Of Chattanooga Lp","Ambulatory Surgical Center",TN,85679.38,1
+1720001928,"Campbell Clinic Surgery Center, Llc","Ambulatory Surgical Center",TN,78963.60,2
+1366422370,"Urlogy Ambulatory Surgery Center Llc","Ambulatory Surgical Center",TN,75280.16,3
+1053385856,"Jackson Ophthalmology Asc Llc","Ambulatory Surgical Center",TN,70222.55,4
+1396719563,"Baptist Germantown Surgery Center, Llc","Ambulatory Surgical Center",TN,69576.14,5
+1578530226,"Physicians Surgical Center Of Ft. Worth Llp","Ambulatory Surgical Center",TX,105244.44,1
+1699246181,"Deerbrook Asc Llc","Ambulatory Surgical Center",TX,94523.06,2
+1962459610,"Central Texas Day Surgery Center Llc","Ambulatory Surgical Center",TX,89539.30,3
+1083659866,"Orthopaedic Surgery Center Of San Antonio Lp","Ambulatory Surgical Center",TX,76588.83,4
+1699738112,"North Austin Surgery Center, L.P.","Ambulatory Surgical Center",TX,75946.63,5
+1346205176,"Coral Desert Surgery Center Llc","Ambulatory Surgical Center",UT,60572.93,1
+1831182799,"Zion Eye Institute, Inc","Ambulatory Surgical Center",UT,59355.31,2
+1235715996,"Central Utah Surgicenter, Llc","Ambulatory Surgical Center",UT,55715.98,3
+1104401561,"St. George Surgery Center, Llc","Ambulatory Surgical Center",UT,47885.70,4
+1134822745,"Murray Surgery Center Llc","Ambulatory Surgical Center",UT,44744.34,5
+1063058303,"Chesapeake Regional Surgery Center At Virginia Beach, Llc","Ambulatory Surgical Center",VA,97486.48,1
+1124777321,"Virginia Cardiovascular Specialists","Ambulatory Surgical Center",VA,92356.92,2
+1033135314,"Med Atlantic Inc","Ambulatory Surgical Center",VA,80118.60,3
+1659953636,"Vcu Health Ambulatory Surgery Center, Llc","Ambulatory Surgical Center",VA,63844.95,4
+1093088999,"Chippenham Ambulatory Surgery Center, Llc","Ambulatory Surgical Center",VA,57396.95,5
+1629495486,"Aac-Air Ambulance Caribbean Inc.","Ambulance Service Provider",VI,4724.34,1
+1871541292,Stewart,Ophthalmology,VI,4635.32,2
+1952712382,"Plessen Eye, Llc","Ambulatory Surgical Center",VI,2881.23,3
+1376768739,Nelson,Neurology,VI,2213.18,4
+1750375671,Tawakol,"Internal Medicine",VI,1999.01,5
+1831368356,"Vermont Eye Surgery & Laser Center","Ambulatory Surgical Center",VT,12316.77,1
+1508342114,"Actd,llc","Ambulatory Surgical Center",VT,11026.77,2
+1235558677,Parks,"Radiation Oncology",VT,5595.14,3
+1619210655,Leshchinskiy,"Diagnostic Radiology",VT,4696.02,4
+1003883869,Marsh,"Orthopedic Surgery",VT,4455.55,5
+1083785398,"Olympia Orthopaedic Associates Pllc","Ambulatory Surgical Center",WA,114705.60,1
+1356965750,"Proliance Surgery Center At Valley, Llc","Ambulatory Surgical Center",WA,76802.88,2
+1093960700,"Proliance Surgeons Inc P S","Ambulatory Surgical Center",WA,71578.95,3
+1811515034,"Salmon Surgery Center Llc","Ambulatory Surgical Center",WA,70939.87,4
+1265401202,"Northwest Orthopaedic Specialists, P.S.","Ambulatory Surgical Center",WA,65197.37,5
+1326119157,"Dean Health Systems, Inc.","Ambulatory Surgical Center",WI,78361.39,1
+1124612924,"Milwaukee Surgicenter Llc","Ambulatory Surgical Center",WI,47646.22,2
+1003976929,"The Orthopaedic Surgery Center Llc","Ambulatory Surgical Center",WI,38438.16,3
+1902052350,"Surgery Center, Llc","Ambulatory Surgical Center",WI,36318.58,4
+1215492061,"Advanced Spine Center Of Wisconsin, Llc","Ambulatory Surgical Center",WI,35995.48,5
+1730296997,"Day Surgery Limited Liability","Ambulatory Surgical Center",WV,32394.00,1
+1831545904,"Mgh Surgery Llc","Ambulatory Surgical Center",WV,31905.33,2
+1316025760,"Tri-State Surgical Center, Llc","Ambulatory Surgical Center",WV,20335.13,3
+1104804632,Hancox,"Micrographic Dermatologic Surgery",WV,8150.18,4
+1831181304,Hahn,"Family Practice",WV,7882.89,5
+1518947589,"Gem City Bone & Joint Pc","Ambulatory Surgical Center",WY,44268.32,1
+1174520993,"Central Wyoming Outpatient Surgery Center, Llc","Ambulatory Surgical Center",WY,27105.49,2
+1730191651,"Cheyenne Surgical Center Llc","Ambulatory Surgical Center",WY,26340.93,3
+1063040731,"Powder River Surgery Center","Ambulatory Surgical Center",WY,22983.56,4
+1689651481,"Teton Outpatient Services Llc","Ambulatory Surgical Center",WY,10692.92,5
+1891878146,Patel,Hematology-Oncology,XX,5194.21,1
+1619140050,Kiley,"Internal Medicine",XX,3313.36,2
+1720494396,Debartolo,"Diagnostic Radiology",XX,1847.41,3
+1306903265,Shah,"Internal Medicine",XX,1124.03,4
+1972960078,Kirksey,"Nurse Practitioner",XX,786.70,5
+1861429318,Fincher,Ophthalmology,ZZ,2219.24,1
+1750351276,Frosolone,Dermatology,ZZ,1966.76,2
+1457569386,Nawaz,Gastroenterology,ZZ,1548.74,3
+1104425545,Secin,Urology,ZZ,1133.60,4
+1538128665,Stenzler,"Family Practice",ZZ,949.86,5
